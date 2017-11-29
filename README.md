@@ -7,7 +7,7 @@ The list of companies who use Vue.js in India
 
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
-[Example](http://example.com) | http://example.com | E-commerce Site
+[YourStory](https://yourstory.com) | https://yourstory.com | Media Platform
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
