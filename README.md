@@ -8,6 +8,7 @@ The list of companies who use Vue.js in India
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
 [YourStory](https://yourstory.com) | https://yourstory.com | Media Platform
+[Sminq - Doctor's Appointments](https://www.sminq.com) | https://sminq.com | Allow patients to pre-book their doctor's appointments and get live queue updates
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
