@@ -11,6 +11,7 @@ Name | Website | What we do with Vue.js
 [Sminq - Doctor's Appointments](https://www.sminq.com) | https://sminq.com | Realtime appointment system for doctors
 [Kite by Zerodha](https://kite.zerodha.com/) | https://kite.zerodha.com/ | Web based trading platform
 [Voicezen](https://voicezen.ai) | https://voicezen.ai | Speech-to-text & AI Platform
+[Zoomcar](https://zoomcar.com) | https://zoomcar.com | Self-Driving Car Rental
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
