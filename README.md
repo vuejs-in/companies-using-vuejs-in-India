@@ -12,7 +12,8 @@ Name | Website | What we do with Vue.js
 [Kite by Zerodha](https://kite.zerodha.com/) | https://kite.zerodha.com/ | Web based trading platform
 [Voicezen](https://voicezen.ai) | https://voicezen.ai | Speech-to-text & AI Platform
 [Zoomcar](https://zoomcar.com) | https://zoomcar.com | Self-Driving Car Rental
-[Olacabs](https://www.olacabs.com) | https://www.olacabs.com | Most of our Websites and Webviews  
+[KarixIO](https://www.karix.io/) | https://www.karix.io/ | Admin/OPs dashboard
+[Olacabs](https://www.olacabs.com) | https://www.olacabs.com | Most of the Websites and Webviews
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
