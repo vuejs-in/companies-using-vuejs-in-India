@@ -14,6 +14,7 @@ Name | Website | What we do with Vue.js
 [Zoomcar](https://zoomcar.com) | https://zoomcar.com | Self-Driving Car Rental
 [KarixIO](https://www.karix.io/) | https://www.karix.io/ | Admin/OPs dashboard
 [thesouledstore](https://www.thesouledstore.com/) | https://www.thesouledstore.com/ | Online merchandise
+[Olacabs](https://www.olacabs.com) | https://www.olacabs.com | Most of the Websites and Webviews
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
