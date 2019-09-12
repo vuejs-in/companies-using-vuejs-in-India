@@ -16,6 +16,8 @@ Name | Website | What we do with Vue.js
 [thesouledstore](https://www.thesouledstore.com/) | https://www.thesouledstore.com/ | Online merchandise
 [Olacabs](https://www.olacabs.com) | https://www.olacabs.com | Most of the Websites and Webviews
 [GeoSpoc](https://www.geospoc.com) | https://www.geospoc.com | GIS + Web with all web projects being rendered using Vue / Nuxt.js
+[Kuvera](https://kuvera.in/) | https://kuvera.in/ | Online platform for mutual fund investment
+[Upwardly](https://www.upwardly.in) | https://www.upwardly.in | Fintech startup for mutual fund investment
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
