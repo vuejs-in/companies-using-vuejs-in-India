@@ -7,6 +7,7 @@ The list of companies who use Vue.js in India
 
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
+[Scroll.in](https://scroll.in) | https://scroll.in | digital publishing / News media
 [YourStory](https://yourstory.com) | https://yourstory.com | Media Platform
 [Sminq - Doctor's Appointments](https://www.sminq.com) | https://sminq.com | Realtime appointment system for doctors
 [Kite by Zerodha](https://kite.zerodha.com/) | https://kite.zerodha.com/ | Web based trading platform
