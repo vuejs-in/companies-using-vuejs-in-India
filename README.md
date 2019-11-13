@@ -19,6 +19,7 @@ Name | Website | What we do with Vue.js
 [GeoSpoc](https://www.geospoc.com) | https://www.geospoc.com | GIS + Web with all web projects being rendered using Vue / Nuxt.js
 [Kuvera](https://kuvera.in/) | https://kuvera.in/ | Online platform for mutual fund investment
 [Upwardly](https://www.upwardly.in) | https://www.upwardly.in | Fintech startup for mutual fund investment
+[BeautifulCode](https://www.beautifulcode.co) | https://www.beautifulcode.co | Remote based Service Company using Vue with Typescript
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
