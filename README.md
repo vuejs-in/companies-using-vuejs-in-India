@@ -7,7 +7,7 @@ The list of companies who use Vue.js in India
 
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
-[QArt Fashion](https://www.qart.fashion/) | https://www.qart.fashion/ | For QArt Dashboard
+
 [Scroll.in](https://scroll.in) | https://scroll.in | digital publishing / News media
 [YourStory](https://yourstory.com) | https://yourstory.com | Media Platform
 [Sminq - Doctor's Appointments](https://www.sminq.com) | https://sminq.com | Realtime appointment system for doctors
@@ -20,6 +20,7 @@ Name | Website | What we do with Vue.js
 [GeoSpoc](https://www.geospoc.com) | https://www.geospoc.com | GIS + Web with all web projects being rendered using Vue / Nuxt.js
 [Kuvera](https://kuvera.in/) | https://kuvera.in/ | Online platform for mutual fund investment
 [Upwardly](https://www.upwardly.in) | https://www.upwardly.in | Fintech startup for mutual fund investment
+[QArt Fashion](https://www.qart.fashion/) | https://www.qart.fashion/ | For QArt Dashboard
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
