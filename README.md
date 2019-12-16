@@ -8,7 +8,7 @@ The list of companies who use Vue.js in India
 Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces | Open to Hire
 ------------ | ------- | ------- | ------- | ------- | -------
 [BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
-[GeoSpoc](https://www.geospoc.com) | [@GeoSpoc](https://twitter.com/geospoc) | GIS + Web with all web projects being rendered using Vue / Nuxt.js | ➖ | ➖ | ➖ 
+[GeoSpoc](https://www.geospoc.com) | [@GeoSpoc](https://twitter.com/geospoc) | GIS + Web with all web projects being rendered using Vue / Nuxt.js | [vinayak@geospoc.com](https://github.com/vinayakkulkarni) | ✅ | ✅ 
 [KarixIO](https://www.karix.io/) | [KarixMobile](https://twitter.com/KarixMobile) | Admin/OPs dashboard | ➖ | ➖ | ➖ 
 [Kite by Zerodha](https://kite.zerodha.com/) | [@zerodhaonline](https://twitter.com/zerodhaonline) | Web based trading platform | ➖ | ➖ | ➖ 
 [Kuvera](https://kuvera.in/) | [@Kuvera_In](https://twitter.com/Kuvera_in) | Online platform for mutual fund investment | ➖ | ➖ | ➖ 
