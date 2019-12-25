@@ -20,6 +20,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [Voicezen](https://voicezen.ai) | [@voicezen](https://twitter.com/voicezen) | Speech-to-text & AI Platform | ➖ | ➖ | ➖ 
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
+[RentoMojo](https://rentomojo.com) | [@rentomojo](https://twitter.com/rentomojo) | Furniture, Appliances, Electronics Rental | [sumedh.nimkarde@rentomojo.com](https://github.com/lunaticmonk) | ➖ | ➖
 
 ### Please Note:  
 
