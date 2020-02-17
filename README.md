@@ -3,20 +3,30 @@
 # Which companies use Vue.js in India?
 The list of companies who use Vue.js in India
 
-## Companies
+## Companies (in alphabetical order)
 
-Name | Website | What we do with Vue.js
------------- | ------- | -------
-[YourStory](https://yourstory.com) | https://yourstory.com | Media Platform
-[Sminq - Doctor's Appointments](https://www.sminq.com) | https://sminq.com | Realtime appointment system for doctors
-[Kite by Zerodha](https://kite.zerodha.com/) | https://kite.zerodha.com/ | Web based trading platform
-[Voicezen](https://voicezen.ai) | https://voicezen.ai | Speech-to-text & AI Platform
-[Zoomcar](https://zoomcar.com) | https://zoomcar.com | Self-Driving Car Rental
-[KarixIO](https://www.karix.io/) | https://www.karix.io/ | Admin/OPs dashboard
-[thesouledstore](https://www.thesouledstore.com/) | https://www.thesouledstore.com/ | Online merchandise
-[WIOS Designs](https://wiosdesigns.xyz) | https://wiosdesigns.xyz/ | Custom front-end solutions, games and open source projects
+Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces | Open to Hire
+------------ | ------- | ------- | ------- | ------- | -------
+[BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
+[GeoSpoc](https://www.geospoc.com) | [@GeoSpoc](https://twitter.com/geospoc) | GIS + Web with all web projects being rendered using Vue / Nuxt.js | [vinayak@geospoc.com](https://github.com/vinayakkulkarni) | ✅ | ✅ 
+[KarixIO](https://www.karix.io/) | [KarixMobile](https://twitter.com/KarixMobile) | Admin/OPs dashboard | ➖ | ➖ | ➖ 
+[Kite by Zerodha](https://kite.zerodha.com/) | [@zerodhaonline](https://twitter.com/zerodhaonline) | Web based trading platform | ➖ | ➖ | ➖ 
+[Kuvera](https://kuvera.in/) | [@Kuvera_In](https://twitter.com/Kuvera_in) | Online platform for mutual fund investment | ➖ | ➖ | ➖ 
+[Olacabs](https://www.olacabs.com) | [@Olacabs](https://twitter.com/Olacabs) | Most of the Websites and Webviews | ➖ | ➖ | ➖ 
+[Scroll.in](https://scroll.in) | [@scroll_in](https://twitter.com/scroll_in) | digital publishing / News media | ➖ | ➖ | ➖ 
+[Sminq - Doctor's Appointments](https://www.sminq.com) | [@getsminq](https://twitter.com/getsminq) | Realtime appointment system for doctors | ➖ | ➖ | ➖ 
+[thesouledstore](https://www.thesouledstore.com/) | [@thesouledstore](https://twitter.com/TheSouledStore) | Online merchandise | ➖ | ➖ | ➖ 
+[Upwardly](https://www.upwardly.in) | [@Upwardlyin](https://twitter.com/upwardlyin) | Fintech startup for mutual fund investment | ➖ | ➖ | ➖ 
+[Voicezen](https://voicezen.ai) | [@voicezen](https://twitter.com/voicezen) | Speech-to-text & AI Platform | ➖ | ➖ | ➖ 
+[WIOS Designs](https://wiosdesigns.xyz) | | Custom front-end solutions, games and open source projects | ➖ | ➖ | ➖ 
+[YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
+[Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 
+### Please Note:  
 
+➖ No Data  
+✅ Yes  
+❌ Nope  
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
