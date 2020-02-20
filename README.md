@@ -3,24 +3,32 @@
 # Which companies use Vue.js in India?
 The list of companies who use Vue.js in India
 
-## Companies
+## Companies (in alphabetical order)
 
-Name | Website | What we do with Vue.js
------------- | ------- | -------
+Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces | Open to Hire
+------------ | ------- | ------- | ------- | ------- | -------
+[BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
+[GeoSpoc](https://www.geospoc.com) | [@GeoSpoc](https://twitter.com/geospoc) | GIS + Web with all web projects being rendered using Vue / Nuxt.js | [vinayak@geospoc.com](https://github.com/vinayakkulkarni) | ✅ | ✅ 
+[KarixIO](https://www.karix.io/) | [KarixMobile](https://twitter.com/KarixMobile) | Admin/OPs dashboard | ➖ | ➖ | ➖ 
+[Kite by Zerodha](https://kite.zerodha.com/) | [@zerodhaonline](https://twitter.com/zerodhaonline) | Web based trading platform | ➖ | ➖ | ➖ 
+[Kuvera](https://kuvera.in/) | [@Kuvera_In](https://twitter.com/Kuvera_in) | Online platform for mutual fund investment | ➖ | ➖ | ➖ 
+[Olacabs](https://www.olacabs.com) | [@Olacabs](https://twitter.com/Olacabs) | Most of the Websites and Webviews | ➖ | ➖ | ➖ 
+[RentoMojo](https://rentomojo.com) | [@rentomojo](https://twitter.com/rentomojo) | Furniture, Appliances, Electronics Rental | [sumedh.nimkarde@rentomojo.com](https://github.com/lunaticmonk) | ➖ | ➖ 
+[Scroll.in](https://scroll.in) | [@scroll_in](https://twitter.com/scroll_in) | digital publishing / News media | ➖ | ➖ | ➖ 
+[Sminq - Doctor's Appointments](https://www.sminq.com) | [@getsminq](https://twitter.com/getsminq) | Realtime appointment system for doctors | ➖ | ➖ | ➖ 
+[thesouledstore](https://www.thesouledstore.com/) | [@thesouledstore](https://twitter.com/TheSouledStore) | Online merchandise | ➖ | ➖ | ➖ 
+[Upwardly](https://www.upwardly.in) | [@Upwardlyin](https://twitter.com/upwardlyin) | Fintech startup for mutual fund investment | ➖ | ➖ | ➖ 
+[Voicezen](https://voicezen.ai) | [@voicezen](https://twitter.com/voicezen) | Speech-to-text & AI Platform | ➖ | ➖ | ➖ 
+[WIOS Designs](https://wiosdesigns.xyz) | | Custom front-end solutions, games and open source projects | ➖ | ➖ | ➖ 
+[YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
+[Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
+[QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard
 
-[Scroll.in](https://scroll.in) | https://scroll.in | digital publishing / News media
-[YourStory](https://yourstory.com) | https://yourstory.com | Media Platform
-[Sminq - Doctor's Appointments](https://www.sminq.com) | https://sminq.com | Realtime appointment system for doctors
-[Kite by Zerodha](https://kite.zerodha.com/) | https://kite.zerodha.com/ | Web based trading platform
-[Voicezen](https://voicezen.ai) | https://voicezen.ai | Speech-to-text & AI Platform
-[Zoomcar](https://zoomcar.com) | https://zoomcar.com | Self-Driving Car Rental
-[KarixIO](https://www.karix.io/) | https://www.karix.io/ | Admin/OPs dashboard
-[thesouledstore](https://www.thesouledstore.com/) | https://www.thesouledstore.com/ | Online merchandise
-[Olacabs](https://www.olacabs.com) | https://www.olacabs.com | Most of the Websites and Webviews
-[GeoSpoc](https://www.geospoc.com) | https://www.geospoc.com | GIS + Web with all web projects being rendered using Vue / Nuxt.js
-[Kuvera](https://kuvera.in/) | https://kuvera.in/ | Online platform for mutual fund investment
-[Upwardly](https://www.upwardly.in) | https://www.upwardly.in | Fintech startup for mutual fund investment
-[QArt Fashion](https://www.qart.fashion/) | https://www.qart.fashion/ | For QArt Dashboard
+### Please Note:  
+
+➖ No Data  
+✅ Yes  
+❌ Nope
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
