@@ -22,12 +22,13 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [WIOS Designs](https://wiosdesigns.xyz) | | Custom front-end solutions, games and open source projects | ➖ | ➖ | ➖ 
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
+[QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard
 
 ### Please Note:  
 
 ➖ No Data  
 ✅ Yes  
-❌ Nope  
+❌ Nope
 
 ## Inspired by
 https://github.com/vuejs-jp/who-use-vuejs-in-japan
