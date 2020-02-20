@@ -19,6 +19,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [thesouledstore](https://www.thesouledstore.com/) | [@thesouledstore](https://twitter.com/TheSouledStore) | Online merchandise | ➖ | ➖ | ➖ 
 [Upwardly](https://www.upwardly.in) | [@Upwardlyin](https://twitter.com/upwardlyin) | Fintech startup for mutual fund investment | ➖ | ➖ | ➖ 
 [Voicezen](https://voicezen.ai) | [@voicezen](https://twitter.com/voicezen) | Speech-to-text & AI Platform | ➖ | ➖ | ➖ 
+[WIOS Designs](https://wiosdesigns.xyz) | | Custom front-end solutions, games and open source projects | ➖ | ➖ | ➖ 
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 
