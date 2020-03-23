@@ -26,6 +26,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | ➖
+[Algoshelf](https://www.algoshelf.com) | [@GeoSpoc](https://twitter.com/algoshelf) | Cognitive planning for CPG supply chain | [anand@rorodata.com](https://github.com/anandology) | ➖ | ✅ 
 ### Please Note:  
 
 ➖ No Data  
