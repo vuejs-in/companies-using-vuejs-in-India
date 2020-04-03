@@ -15,6 +15,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [Kite by Zerodha](https://kite.zerodha.com/) | [@zerodhaonline](https://twitter.com/zerodhaonline) | Web based trading platform | ➖ | ➖ | ➖ 
 [Kuvera](https://kuvera.in/) | [@Kuvera_In](https://twitter.com/Kuvera_in) | Online platform for mutual fund investment | ➖ | ➖ | ➖ 
 [Locale.ai](https://locale.ai/) | [@localeai](https://twitter.com/localeai) | Web based GIS, Large scale geospatial visualizations and analytics |  ➖ | ➖ | ➖
+[Medinovita](https://www.medinovita.com/) | [@medi_novita](https://twitter.com/medi_novita) | Wellness & Yoga | ➖ | ➖ | 
 [Olacabs](https://www.olacabs.com) | [@Olacabs](https://twitter.com/Olacabs) | Most of the Websites and Webviews | ➖ | ➖ | ➖ 
 [RentoMojo](https://rentomojo.com) | [@rentomojo](https://twitter.com/rentomojo) | Furniture, Appliances, Electronics Rental | [sumedh.nimkarde@rentomojo.com](https://github.com/lunaticmonk) | ➖ | ➖ 
 [Scroll.in](https://scroll.in) | [@scroll_in](https://twitter.com/scroll_in) | digital publishing / News media | ➖ | ➖ | ➖ 
@@ -26,7 +27,6 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | 
-[Medinovita](https://www.medinovita.com/) | [@medi_novita](https://twitter.com/medi_novita) | Wellness & Yoga | ➖ | ➖ | 
 ➖
 ### Please Note:  
 
