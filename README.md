@@ -7,6 +7,7 @@ The list of companies who use Vue.js in India
 
 Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces | Open to Hire
 ------------ | ------- | ------- | ------- | ------- | -------
+[Algoshelf](https://www.algoshelf.com) | [@algoshelf](https://twitter.com/algoshelf) | Cognitive planning for CPG supply chain | [anand@rorodata.com](https://github.com/anandology) | ➖ | ✅ 
 [BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
 [GeoSpoc](https://www.geospoc.com) | [@GeoSpoc](https://twitter.com/geospoc) | GIS + Web with all web projects being rendered using Vue / Nuxt.js | [vinayak@geospoc.com](https://github.com/vinayakkulkarni) | ✅ | ✅ 
 [Helpninja](https://helpninja.com) | [@helpninjahq](https://twitter.com/helpninjahq) | Simple and Affordable Helpdesk | [sivaram636@helpninja.com](https://github.com/sivaramsi) | ➖ | ➖ 
@@ -26,7 +27,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | ➖
-[Algoshelf](https://www.algoshelf.com) | [@GeoSpoc](https://twitter.com/algoshelf) | Cognitive planning for CPG supply chain | [anand@rorodata.com](https://github.com/anandology) | ➖ | ✅ 
+
 ### Please Note:  
 
 ➖ No Data  
