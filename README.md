@@ -23,6 +23,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [Scroll.in](https://scroll.in) | [@scroll_in](https://twitter.com/scroll_in) | digital publishing / News media | ➖ | ➖ | ➖ 
 [Sminq - Doctor's Appointments](https://www.sminq.com) | [@getsminq](https://twitter.com/getsminq) | Realtime appointment system for doctors | ➖ | ➖ | ➖ 
 [thesouledstore](https://www.thesouledstore.com/) | [@thesouledstore](https://twitter.com/TheSouledStore) | Online merchandise | ➖ | ➖ | ➖ 
+[ThoughtFocus](https://www.thoughtfocus.com/) | [@ThoughtFocusTec](https://twitter.com/ThoughtFocusTec) |  Working in Aerospace & Defense, Education, Finance, & Manufacturing domain & use Vue to be build web apps | [akshit.sharma@thoughtfocus.com](https://twitter.com/TheAkshitS) | ➖ | ➖ 
 [Upwardly](https://www.upwardly.in) | [@Upwardlyin](https://twitter.com/upwardlyin) | Fintech startup for mutual fund investment | ➖ | ➖ | ➖ 
 [Voicezen](https://voicezen.ai) | [@voicezen](https://twitter.com/voicezen) | Speech-to-text & AI Platform | ➖ | ➖ | ➖ 
 [WIOS Designs](https://wiosdesigns.xyz) | | Custom front-end solutions, games and open source projects | ➖ | ➖ | ➖ 
