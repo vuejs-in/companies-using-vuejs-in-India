@@ -29,7 +29,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | ➖
-[Mobiotics](https://mobiotics.com/) | [@mobioticsinc](https://twitter.com/mobioticsinc) | OTT Platform,DRM | ➖ | ➖ | ➖
+[Mobiotics](https://mobiotics.com/) | [@mobioticsinc](https://twitter.com/mobioticsinc) | OTT Platform,DRM | ➖ | ➖ | ➖ 
 ### Please Note:  
 
 ➖ No Data  
