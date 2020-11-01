@@ -17,6 +17,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [Kuvera](https://kuvera.in/) | [@Kuvera_In](https://twitter.com/Kuvera_in) | Online platform for mutual fund investment | ➖ | ➖ | ➖ 
 [Locale.ai](https://locale.ai/) | [@localeai](https://twitter.com/localeai) | Web based GIS, Large scale geospatial visualizations and analytics |  ➖ | ➖ | ➖
 [Medinovita](https://www.medinovita.com/) | [@medi_novita](https://twitter.com/medi_novita) | Wellness & Yoga | ➖ | ➖ | 
+[Mobiotics](https://mobiotics.com/) | [@mobioticsinc](https://twitter.com/mobioticsinc) | OTT Platform,DRM | ➖ | ➖ | ➖ 
 [Murait Technologies](https://www.murait.com/) | [@MuraitTech](https://twitter.com/MuraitTech) | Remote base Service Company using Vue with Laravel  | [Mayur Sojitra](https://twitter.com/mayur_sojitra) | ➖ | ✅
 [Olacabs](https://www.olacabs.com) | [@Olacabs](https://twitter.com/Olacabs) | Most of the Websites and Webviews | ➖ | ➖ | ➖ 
 [RentoMojo](https://rentomojo.com) | [@rentomojo](https://twitter.com/rentomojo) | Furniture, Appliances, Electronics Rental | [sumedh.nimkarde@rentomojo.com](https://github.com/lunaticmonk) | ➖ | ➖ 
@@ -29,7 +30,6 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | ➖
-[Mobiotics](https://mobiotics.com/) | [@mobioticsinc](https://twitter.com/mobioticsinc) | OTT Platform,DRM | ➖ | ➖ | ➖ 
 ### Please Note:  
 
 ➖ No Data  
