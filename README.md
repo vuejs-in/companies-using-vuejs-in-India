@@ -8,6 +8,7 @@ The list of companies who use Vue.js in India
 Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces | Open to Hire
 ------------ | ------- | ------- | ------- | ------- | -------
 [BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
+[Clarity Technologies](https://claritytech.io/) | ➖ | Software and Services Startup | [Manash Sonowal](https://twitter.com/msonowal) | ➖ | ✅
 [Flock](https://flock.com) | [@Flock](https://twitter.com/flock) | Tools for effortless communication and collaboration | ➖ | ➖ | ✅
 [GeoSpoc](https://www.geospoc.com) | [@GeoSpoc](https://twitter.com/geospoc) | GIS + Web with all web projects being rendered using Vue / Nuxt.js | [vinayak@geospoc.com](https://github.com/vinayakkulkarni) | ✅ | ✅ 
 [Helpninja](https://helpninja.com) | [@helpninjahq](https://twitter.com/helpninjahq) | Simple and Affordable Helpdesk | [sivaram636@helpninja.com](https://github.com/sivaramsi) | ➖ | ➖ 
