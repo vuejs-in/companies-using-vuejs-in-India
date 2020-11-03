@@ -32,6 +32,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | ➖
+[Clarity Technologies](https://claritytech.io/) | ➖ | Software and Services Startup | [Manash Sonowal](https://twitter.com/msonowal) | ➖ | ✅
 ### Please Note:  
 
 ➖ No Data  
