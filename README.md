@@ -9,6 +9,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 ------------ | ------- | ------- | ------- | ------- | -------
 [BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
 [Clarity Technologies](https://claritytech.io/) | ➖ | Software and Services Startup | [Manash Sonowal](https://twitter.com/msonowal) | ➖ | ✅
+[DeepSource](https://deepsource.io) | [@DeepSourceHQ](https://twitter.com/DeepSourceHQ/) | Automated code review that helps you write better code. Backed by Y Combinator. | [shivam@deepsource.io](https://github.com/scmmishra) | ➖ | ✅
 [Flock](https://flock.com) | [@Flock](https://twitter.com/flock) | Tools for effortless communication and collaboration | ➖ | ➖ | ✅
 [GeoSpoc](https://www.geospoc.com) | [@GeoSpoc](https://twitter.com/geospoc) | GIS + Web with all web projects being rendered using Vue / Nuxt.js | [vinayak@geospoc.com](https://github.com/vinayakkulkarni) | ✅ | ✅ 
 [Helpninja](https://helpninja.com) | [@helpninjahq](https://twitter.com/helpninjahq) | Simple and Affordable Helpdesk | [sivaram636@helpninja.com](https://github.com/sivaramsi) | ➖ | ➖ 
