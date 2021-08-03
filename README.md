@@ -35,7 +35,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | ➖
-[ Experion Global](https://www.experionglobal.com/) | [@experionglobal](https://twitter.com/experionglobal) | For custom development services that disrupt the entire industry. | ➖ | ➖ | ➖
+[ Experion Global](https://www.experionglobal.com/) | [@experionglobal](https://twitter.com/experionglobal) | delivered to clients in HealthTech, InsureTech, FinTech,Supply Chain, Transportation, Retail, Logistics.... | ➖ | ➖ | ➖
 ### Please Note:  
 
 ➖ No Data  
