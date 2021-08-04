@@ -8,6 +8,7 @@ The list of companies who use Vue.js in India
 Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces | Open to Hire
 ------------ | ------- | ------- | ------- | ------- | -------
 [BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
+[Capital Numbers](https://www.capitalnumbers.com/) | [@_CNInfotech](https://twitter.com/_CNInfotech) | Provides #Web #Mobile #DevOps and #AI #ML talent “On-Demand” to leading businesses around the world | ➖ | ➖ | ➖ 
 [Clarity Technologies](https://claritytech.io/) | ➖ | Software and Services Startup | [Manash Sonowal](https://twitter.com/msonowal) | ➖ | ✅
 [DeepSource](https://deepsource.io) | [@DeepSourceHQ](https://twitter.com/DeepSourceHQ/) | Automated code review that helps you write better code. Backed by Y Combinator. | [shivam@deepsource.io](https://github.com/scmmishra) | ➖ | ✅
 [Economize](https://www.economize.cloud/) | [@economizecloud](https://twitter.com/economizecloud) | Analyze, manage, and optimize your cloud infrastructure costs & billing better with Economize. | [anirudh@economize.cloud](https://github.com/anirudhmurali) | ➖ | ✅
