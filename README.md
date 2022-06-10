@@ -7,6 +7,7 @@ The list of companies who use Vue.js in India
 
 Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces | Open to Hire
 ------------ | ------- | ------- | ------- | ------- | -------
+[Algoshelf](https://www.algoshelf.com) | [@algoshelf](https://twitter.com/algoshelf) | Cognitive planning for CPG supply chain | [anand@rorodata.com](https://github.com/anandology) | ➖ | ✅ 
 [BeautifulCode](https://www.beautifulcode.co) | [@BeautifulCode_](https://twitter.com/beautifulcode_) | Remote based Service Company using Vue with Typescript | ➖ | ➖ | ➖ 
 [Capital Numbers](https://www.capitalnumbers.com/) | [@_CNInfotech](https://twitter.com/_CNInfotech) | Provides #Web #Mobile #DevOps and #AI #ML talent “On-Demand” to leading businesses around the world | ➖ | ➖ | ➖ 
 [Clarity Technologies](https://claritytech.io/) | ➖ | Software and Services Startup | [Manash Sonowal](https://twitter.com/msonowal) | ➖ | ✅
@@ -38,6 +39,7 @@ Name | Twitter | What we do with Vue.js | Contact Person | Open for Event Spaces
 [YourStory](https://yourstory.com) | [@YourStoryCo](https://twitter.com/YourStoryCo) | Media Platform | ➖ | ➖ | ➖ 
 [Zoomcar](https://zoomcar.com) | [@ZoomCarIndia](https://twitter.com/ZoomCarIndia) | Self-Driving Car Rental | ➖ | ➖ | ➖ 
 [QArt Fashion](https://www.qart.fashion/) | [@QArtFashion](https://twitter.com/QArtFashion) | For QArt Dashboard | ➖ | ➖ | ➖
+
 ### Please Note:  
 
 ➖ No Data  
